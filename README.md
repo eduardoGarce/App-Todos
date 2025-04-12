@@ -21,7 +21,7 @@ Registrate y comienza a registrar tus tareas, podrás añadir nuevas tareas o el
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/eduardoGarce/InvManage.git
+git clone https://github.com/eduardoGarce/App-Todos.git
 cd InvManage
 ```
 
